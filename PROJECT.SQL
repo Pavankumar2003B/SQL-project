@@ -1,7 +1,4 @@
-DROP DATABASE IF EXISTS instagram_clone_db;
-
 CREATE DATABASE instagram_clone_db;
-
 USE instagram_clone_db;
 
 CREATE TABLE users (
